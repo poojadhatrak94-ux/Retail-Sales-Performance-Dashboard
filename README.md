@@ -1,4 +1,7 @@
-# Retail Sales Performance Dashboard
+# Retail Sales Performance Dashboard 
+## Dashboard Preview
+
+![Dashboard](final_dashboard.png)
 
 ## Project Overview
 
